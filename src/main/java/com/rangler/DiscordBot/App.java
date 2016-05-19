@@ -1,7 +1,8 @@
 package com.rangler.DiscordBot;
 
-import sx.blah.discord.api.*;
-import sx.blah.discord.util.*;
+import sx.blah.discord.api.ClientBuilder;
+import sx.blah.discord.api.IDiscordClient;
+import sx.blah.discord.util.DiscordException;
 
 public class App 
 {
